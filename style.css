@@ -1865,7 +1865,7 @@ body {
   -ms-flex-align: stretch;
   align-items: stretch;
   background-color: #131313;
-  background-image: url("https://josealbertolab.com/assets/images/_labBerlinCorrected.jpeg");
+  background-image: url("https://josealbertolab.com/assets/images/labBerlinCorrected.jpeg");
   background-position: 0% 0%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1945,7 +1945,7 @@ p {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  background-image: url("https://josealbertolab.com/assets/images/_labBerlinCorrected.jpeg");
+  background-image: url("https://josealbertolab.com/assets/images/labBerlinCorrected.jpeg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2198,7 +2198,7 @@ p {
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  background-image: url("https://josealbertolab.com/assets/images/_labBerlinCorrected.jpeg");
+  background-image: url("https://josealbertolab.com/assets/images/labBerlinCorrected.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -2255,7 +2255,7 @@ p {
   display: none;
   width: 100vw;
   height: 100vh;
-  background-image: url("https://josealbertolab.com/assets/images/_labBerlinCorrected.jpeg");
+  background-image: url("https://josealbertolab.com/assets/images/labBerlinCorrected.jpeg");
   background-position: 8% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2290,7 +2290,7 @@ p {
     -webkit-align-items: stretch;
     -ms-flex-align: stretch;
     align-items: stretch;
-    background-image: url("https://josealbertolab.com/assets/images/_labBerlinCorrected.jpeg");
+    background-image: url("https://josealbertolab.com/assets/images/labBerlinCorrected.jpeg");
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
