@@ -435,6 +435,10 @@ p {
   background-attachment: fixed;
 }
 
+
+/*============================================================================
+    // RESPONSIVE
+============================================================================*/
 @media screen and (min-width: 1440px) {
   h1 {
     margin-top: 0px;
@@ -923,6 +927,10 @@ p {
   }
 }
 
+
+/* ============================================================================
+    // FONTS
+=============================================================================*/
 @font-face {
   font-family: "Nimbussanl reg";
   src: url("./assets/fonts/NimbusSanL-Reg.otf")
@@ -931,7 +939,6 @@ p {
   font-style: normal;
   font-display: swap;
 }
-
 @font-face {
   font-family: "Nimbussanl bol";
   src: url("./assets/fonts/NimbusSanL-Bol.otf")
@@ -940,7 +947,6 @@ p {
   font-style: normal;
   font-display: swap;
 }
-
 @font-face {
   font-family: "Nimbusmono";
   src: url("./assets/fonts/nimbusmono-regular.otf")
